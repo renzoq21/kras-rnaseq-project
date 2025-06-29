@@ -6,3 +6,4 @@ This mini project ompares gene expressions between KRAS-mutant nd wild-type tumo
 2) Practice rna-seq differential expression analyses
 3) Build clinical bioinformatics intuition before internship 
 
+Hi
